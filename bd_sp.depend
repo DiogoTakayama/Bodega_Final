@@ -1,0 +1,238 @@
+# depslib dependency file v1.0
+1479730155 source:c:\users\diogot\desktop\projeto\bd_sp\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"produtos.h"
+	"vendas.h"
+
+1478892209 source:c:\users\diogot\desktop\projeto\vendas\gotoxy.c
+
+1479689507 source:c:\users\diogot\desktop\projeto\bd_sp\cllientes.c
+
+1479686019 source:c:\users\diogot\desktop\projeto\vendas\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1479693626 source:c:\users\diogot\desktop\projeto\bd_sp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1479357208 c:\users\diogot\desktop\projeto\bd_sp\menu.h
+
+1479732527 source:c:\users\diogot\desktop\projeto\bd_sp\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
+1479687665 c:\users\diogot\desktop\projeto\bd_sp\produtos.h
+
+1479690001 c:\users\diogot\desktop\projeto\bd_sp\vendas.h
+
+1479689507 source:c:\users\rsrs\desktop\projetos c\bd_sp\cllientes.c
+
+1479740878 source:c:\users\rsrs\desktop\projetos c\bd_sp\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"produtos.h"
+	"vendas.h"
+
+1479357208 c:\users\rsrs\desktop\projetos c\bd_sp\menu.h
+
+1479687665 c:\users\rsrs\desktop\projetos c\bd_sp\produtos.h
+
+1479690001 c:\users\rsrs\desktop\projetos c\bd_sp\vendas.h
+
+1479693626 source:c:\users\rsrs\desktop\projetos c\bd_sp\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1480088700 source:c:\users\rsrs\desktop\projetos c\bd_sp\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
+1479693626 source:c:\users\diogot\desktop\ffu\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1480125403 source:c:\users\diogot\desktop\ffu\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
+1480125441 source:c:\users\diogot\desktop\ffu\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"produtos.h"
+	"vendas.h"
+
+1479357208 c:\users\diogot\desktop\ffu\menu.h
+
+1479687665 c:\users\diogot\desktop\ffu\produtos.h
+
+1479690001 c:\users\diogot\desktop\ffu\vendas.h
+
+1480125402 source:c:\users\diogot\desktop\ffu\cllientes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
+1480419308 source:c:\users\rsrs\desktop\projetos c\takayama29112016\naomexer\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"produtos.h"
+	"vendas.h"
+
+1479357208 c:\users\rsrs\desktop\projetos c\takayama29112016\naomexer\menu.h
+
+1479687665 c:\users\rsrs\desktop\projetos c\takayama29112016\naomexer\produtos.h
+
+1479690001 c:\users\rsrs\desktop\projetos c\takayama29112016\naomexer\vendas.h
+
+1479693626 source:c:\users\rsrs\desktop\projetos c\takayama29112016\naomexer\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1480422822 source:c:\users\rsrs\desktop\projetos c\takayama29112016\naomexer\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
+1480425680 source:c:\users\rsrs\desktop\projetos c\takayama29112016\naomexer\cllientes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
+1480460092 source:c:\users\diogot\desktop\desisti aqui\cllientes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"produtos.h"
+
+1480459804 source:c:\users\diogot\desktop\desisti aqui\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"produtos.h"
+	"clientes.h"
+
+1479357208 c:\users\diogot\desktop\desisti aqui\menu.h
+
+1479687665 c:\users\diogot\desktop\desisti aqui\produtos.h
+
+1479690001 c:\users\diogot\desktop\desisti aqui\vendas.h
+
+1479693626 source:c:\users\diogot\desktop\desisti aqui\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1480454117 source:c:\users\diogot\desktop\desisti aqui\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
+1480460092 c:\users\diogot\desktop\desisti aqui\clientes.h
+
+1480460188 source:c:\users\diogot\desktop\desisti aqui\senha.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1480460188 source:c:\users\diogot\desktop\desisti aqui\senhacli.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1480460092 source:c:\users\diogot\desktop\projeto bodega\cllientes.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+	"produtos.h"
+
+1479687665 c:\users\diogot\desktop\projeto bodega\produtos.h
+
+1480634619 source:c:\users\diogot\desktop\projeto bodega\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"produtos.h"
+	"clientes.h"
+
+1479357208 c:\users\diogot\desktop\projeto bodega\menu.h
+
+1480460092 c:\users\diogot\desktop\projeto bodega\clientes.h
+
+1479693626 source:c:\users\diogot\desktop\projeto bodega\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1480635214 source:c:\users\diogot\desktop\projeto bodega\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<string.h>
+
+1480460188 source:c:\users\diogot\desktop\projeto bodega\senha.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1480460188 source:c:\users\diogot\desktop\projeto bodega\senhacli.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
